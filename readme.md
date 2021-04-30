@@ -10,7 +10,7 @@ I'm a first-year Ph.D. student at the [Department of Computer Science and Techno
 
 ### Publications
 
-<font size=3>**Unsupervised Part Segmentation through Disentangling Appearance and Shape.**</font>\
+<font size=3><b>Unsupervised Part Segmentation through Disentangling Appearance and Shape.</b></font>\
 **Shilong Liu**, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu. \
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Nashville, United States, 2021
 
