@@ -1,18 +1,18 @@
 
 ![avatar][base64str]
-Shilong Liu(刘世隆)
+# Shilong Liu(刘世隆)
 
 Ph.D. student, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-I'm a first-year Ph.D. student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+I'm a first-year Ph.D. student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
 
 ---
 
 ### Publications
 
-Unsupervised Part Segmentation through Disentangling Appearance and Shape.
-Shilong Liu, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, United States, 2021
+<font size=3>**Unsupervised Part Segmentation through Disentangling Appearance and Shape.**</font>\
+**Shilong Liu**, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu. \
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Nashville, United States, 2021
 
 
 
