@@ -20,6 +20,8 @@ I'm a first-year Ph.D. student at the [Department of Computer Science and Techno
 <a href='https://arxiv.org/abs/2105.12405'>[paper]</a>
 </p>
 
+---
+
 ### Competitions
 
 Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, Shilong Liu) won the first place in the [GeekPwn DeepFake competition](http://www.geekpwn.org/zh/index.html) (October 24th, 2020).
