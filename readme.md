@@ -4,22 +4,20 @@
 
 Ph.D. student, [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-I'm a first-year Ph.D. student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+I'm a second-year Ph.D. student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/), [Prof. Hang Su](https://www.suhangss.me/), and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+
+I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/). I was an intern at [Megvii Research](https://en.megvii.com/megvii_research) in 2019.
+
+My research interest includes machine learning, deep learning and their applications in computer vision.
+
+
+Email: liusl20@mails.tsinghua.edu.cn; slongliu86@gmail.com
+
+Github: https://github.com/SlongLiu
 
 ---
 
 ### Publications
-
-<p>
-<font size=3><b>Unsupervised Part Segmentation through Disentangling Appearance and Shape.</b></font>
-<br>
-<font size=2><b>Shilong Liu</b>, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu.</font>
-<br>
-<font size=2>To Appear in proc. of IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Online (due to COVID-19), 2021.</font>
-<br>
-<a href='https://arxiv.org/abs/2105.12405'>[paper]</a>
-</p>
-
 
 <p>
 <font size=3><b>Query2Label: A Simple Transformer Way to Multi-Label Classification.</b></font>
@@ -31,9 +29,21 @@ I'm a first-year Ph.D. student at the [Department of Computer Science and Techno
 <a href='https://arxiv.org/abs/2107.10834'>[paper]</a> <a href='https://github.com/SlongLiu/query2labels'>[code]</a>
 </p>
 
+<p>
+<font size=3><b>Unsupervised Part Segmentation through Disentangling Appearance and Shape.</b></font>
+<br>
+<font size=2><b>Shilong Liu</b>, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu.</font>
+<br>
+<font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Online (due to COVID-19), 2021.</font>
+<br>
+<a href='https://arxiv.org/abs/2105.12405'>[paper]</a>
+</p>
+
+
 ---
 
 ### Competitions
+Our team (Xiao Yang, Yichi Zhang, Chang Liu, Wenzhao Xiang, <b>Shilong Liu</b>) won the <b>second place</b> in the [Unrestricted Adversarial Attacks on ImageNet Competition](https://tianchi.aliyun.com/competition/entrance/531853/introduction) of [CVPR-2021 AML-CV Workshop](https://aisecure-workshop.github.io/amlcvpr2021/).
 
 Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, <b>Shilong Liu</b>) won the <b>first place</b> in the [GeekPwn DeepFake competition](http://www.geekpwn.org/zh/index.html) (October 24th, 2020).
 
