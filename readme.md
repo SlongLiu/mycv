@@ -26,7 +26,7 @@ Github: https://github.com/SlongLiu
 <br>
 <font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
 <br>
-<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> 
+<a href='https://arxiv.org/abs/2203.01305'>[paper]</a> 
 
 
 <p>
