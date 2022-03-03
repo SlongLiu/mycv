@@ -27,7 +27,7 @@ Github: https://github.com/SlongLiu
 <font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
 <br>
 <a href='https://arxiv.org/abs/2203.01305'>[paper]</a> 
-
+</p>
 
 <p>
 <font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
@@ -37,7 +37,7 @@ Github: https://github.com/SlongLiu
 <font size=2>International Conference on Learning Representations (<b>ICLR</b>) 2022.</font>
 <br>
 <a href='https://arxiv.org/abs/2201.12329'>[paper]</a> 
-
+</p>
 
 <p>
 <font size=3><b>Query2Label: A Simple Transformer Way to Multi-Label Classification.</b></font>
