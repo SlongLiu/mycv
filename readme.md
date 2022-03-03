@@ -20,6 +20,26 @@ Github: https://github.com/SlongLiu
 ### Publications
 
 <p>
+<font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
+<br>
+<font size=2>Feng Li*, Hao Zhang*, <b>Shilong Liu</b>, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
+<br>
+<font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> 
+
+
+<p>
+<font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
+<br>
+<font size=2><b>Shilong Liu</b>, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
+<br>
+<font size=2>International Conference on Learning Representations (<b>ICLR</b>) 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> 
+
+
+<p>
 <font size=3><b>Query2Label: A Simple Transformer Way to Multi-Label Classification.</b></font>
 <br>
 <font size=2><b>Shilong Liu</b>, Lei Zhang, Xiao Yang, Hang Su and Jun Zhu.</font>
@@ -48,8 +68,10 @@ Our team (Xiao Yang, Yichi Zhang, Chang Liu, Wenzhao Xiang, <b>Shilong Liu</b>) 
 Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, <b>Shilong Liu</b>) won the <b>first place</b> in the [GeekPwn DeepFake competition](http://www.geekpwn.org/zh/index.html) (October 24th, 2020).
 
 
+---
 
-
+### Services
+I serve as a reviewer for CVRP, ECCV, and ICIP.
 
 
 
