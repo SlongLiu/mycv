@@ -72,7 +72,7 @@ Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, <b>Shilong Liu</b
 ---
 
 ### Services
-I serve as a reviewer for CVRP, ECCV, and ICIP.
+I serve as a reviewer for CVPR, ECCV, and ICIP.
 
 
 
