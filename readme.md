@@ -18,6 +18,25 @@ Github: https://github.com/SlongLiu
 ---
 
 ### Publications
+<p>
+<font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
+<br>
+<font size=2>Feng Li*, Hao Zhang*, <b>Shilong Liu*</b>, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a>  
+</p>
+
+<p>
+<font size=3><b>Vision-Language Intelligence: Tasks, Representation Learning, and Large Models.</b></font>
+<br>
+<font size=2>Feng Li*, Hao Zhang*, Yi-Fan Zhang, <b>Shilong Liu</b>, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2203.01922'>[paper]</a> 
+</p>
 
 <p>
 <font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
@@ -26,7 +45,7 @@ Github: https://github.com/SlongLiu
 <br>
 <font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
 <br>
-<a href='https://arxiv.org/abs/2203.01305'>[paper]</a> 
+<a href='https://arxiv.org/abs/2203.01305'>[paper]</a> <a href='https://github.com/FengLi-ust/DN-DETR'>[code]</a>    
 </p>
 
 <p>
@@ -36,7 +55,7 @@ Github: https://github.com/SlongLiu
 <br>
 <font size=2>International Conference on Learning Representations (<b>ICLR</b>) 2022.</font>
 <br>
-<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> 
+<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> <a href='https://github.com/SlongLiu/DAB-DETR'>[code]</a>    
 </p>
 
 <p>
@@ -64,7 +83,7 @@ Github: https://github.com/SlongLiu
 
 ### Competitions
 
-Our team (Xiao Yang, Yichi Zhang, Chang Liu, Wenzhao Xiang, <b>Shilong Liu</b>) won the <b>second place</b> in the [Unrestricted Adversarial Attacks on ImageNet Competition](https://tianchi.aliyun.com/competition/entrance/531853/introduction) of [CVPR-2021 AML-CV Workshop](https://aisecure-workshop.github.io/amlcvpr2021/).
+Our team (Xiao Yang, Yichi Zhang, Chang Liu, Wenzhao Xiang, <b>Shilong Liu</b>) won the <b>second place</b> in the [Unrestricted Adversarial Attacks on ImageNet Competition](https://tianchi.aliyun.com/competition/entrance/531853/introduction) of [CVPR-2021 AML-CV Workshop](https://aisecure-workshop.github.io/amlcvpr2021/). ([related paper](https://arxiv.org/abs/2110.09903))
 
 Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, <b>Shilong Liu</b>) won the <b>first place</b> in the [GeekPwn DeepFake competition](http://www.geekpwn.org/zh/index.html) (October 24th, 2020).
 
