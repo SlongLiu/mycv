@@ -20,7 +20,7 @@ Github: https://github.com/SlongLiu
 ### News
 <p>
 <font size=3>
-[2020/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
+[2022/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
 </font>
 </p>
 
