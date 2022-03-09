@@ -17,11 +17,15 @@ Github: https://github.com/SlongLiu
 
 ---
 
+### News
+[2020/3/9]: We build a new repo [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) to present papers about transformer for detection and segmenttion. Welcome to your attention!
+
+
 ### Publications
 <p>
 <font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
 <br>
-<font size=2>Feng Li*, Hao Zhang*, <b>Shilong Liu*</b>, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
+<font size=2>Hao Zhang*, Feng Li*, <b>Shilong Liu*</b>, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
 <br>
 <font size=2>arxiv 2022.</font>
 <br>
