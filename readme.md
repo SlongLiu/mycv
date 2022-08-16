@@ -18,15 +18,26 @@ Github: https://github.com/SlongLiu
 ---
 
 ### News
-<p>
-<font size=3>
+[2022/6/7]: We release a unified detection and segmentation model [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) that achieves the best results on all the three segmentation tasks (**54.7** AP on [COCO instance leaderboard](https://paperswithcode.com/sota/instance-segmentation-on-coco), **59.5** PQ on [COCO panoptic leaderboard](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev), and **60.8** mIoU on [ADE20K semantic leaderboard](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k))! Code will be available [here](https://github.com/IDEACVR/MaskDINO).
+</br>
 [2022/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
-</font>
-</p>
+</br>
+[2022/3/8]: Our [DINO](https://arxiv.org/abs/2203.03605) reach the SOTA on [MS-COCO leader board](https://paperswithcode.com/sota/object-detection-on-coco) with **63.3AP**! Code is avaliable [here](https://github.com/IDEACVR/DINO)!
+
 
 ---
 
 ### Publications
+<p>
+<font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
+<br>
+<font size=2>Feng Li, Hao Zhang, Huaizhe xu, <b>Shilong Liu</b>, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum</font>
+<br>
+<font size=2>arxiv 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2206.02777'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>  
+</p>
+
 <p>
 <font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
 <br>
