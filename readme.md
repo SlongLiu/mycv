@@ -20,9 +20,9 @@ Github: https://github.com/SlongLiu
 ### News
 <p>
 [2022/6/7]: We release a unified detection and segmentation model <a href='https://arxiv.org/pdf/2206.02777.pdf'>Mask DINO</a> that achieves the best results on all the three segmentation tasks (**54.7** AP on <a href='https://paperswithcode.com/sota/instance-segmentation-on-coco'>COCO instance leaderboard</a>, **59.5** PQ on <a href='https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev'>COCO panoptic leaderboard</a>, and **60.8** mIoU on <a href='https://paperswithcode.com/sota/semantic-segmentation-on-ade20k'>ADE20K semantic leaderboard</a>! Code will be available <a href='https://github.com/IDEACVR/MaskDINO'>here</a>.
-</br>
+<br>
 [2022/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
-</br>
+<br>
 [2022/3/8]: Our <a href='https://arxiv.org/abs/2203.03605'>DINO</a> reach the SOTA on <a href='https://paperswithcode.com/sota/object-detection-on-coco'>MS-COCO leader board</a> with **63.3AP**! Code is avaliable <a href='https://github.com/IDEACVR/DINO'>here</a>!
 </p>
 
