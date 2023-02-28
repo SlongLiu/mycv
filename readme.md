@@ -15,20 +15,32 @@ Email: liusl20@mails.tsinghua.edu.cn; slongliu86@gmail.com
 
 Github: https://github.com/SlongLiu
 
+Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en 
+
 ---
 
 ### News
 <p>
-[2022/6/7]: We release a unified detection and segmentation model <a href='https://arxiv.org/pdf/2206.02777.pdf'>Mask DINO</a> that achieves the best results on all the three segmentation tasks (**54.7** AP on <a href='https://paperswithcode.com/sota/instance-segmentation-on-coco'>COCO instance leaderboard</a>, **59.5** PQ on <a href='https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev'>COCO panoptic leaderboard</a>, and **60.8** mIoU on <a href='https://paperswithcode.com/sota/semantic-segmentation-on-ade20k'>ADE20K semantic leaderboard</a>! Code will be available <a href='https://github.com/IDEACVR/MaskDINO'>here</a>.
+[2023/2/28]: 4 paper accepted to CVPR 2023!
+<br>
+[2023/1/21]: 2 paper accepted to ICLR 2023!
+<br>
+[2022/11/19]: 1 paper accepted to AAAI 2023!
+<br>
+[2022/6/7]: [CVPR 2023] We release a unified detection and segmentation model <a href='https://arxiv.org/pdf/2206.02777.pdf'>Mask DINO</a> that achieves the best results on all the three segmentation tasks (<b>54.7</b> AP on <a href='https://paperswithcode.com/sota/instance-segmentation-on-coco'>COCO instance leaderboard</a>, <b>59.5</b> PQ on <a href='https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev'>COCO panoptic leaderboard</a>, and <b>60.8</b> mIoU on <a href='https://paperswithcode.com/sota/semantic-segmentation-on-ade20k'>ADE20K semantic leaderboard</a>! Code will be available <a href='https://github.com/IDEACVR/MaskDINO'>here</a>. 
 <br>
 [2022/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
 <br>
-[2022/3/8]: Our <a href='https://arxiv.org/abs/2203.03605'>DINO</a> reach the SOTA on <a href='https://paperswithcode.com/sota/object-detection-on-coco'>MS-COCO leader board</a> with **63.3AP**! Code is avaliable <a href='https://github.com/IDEACVR/DINO'>here</a>!
+[2022/3/8]: [ICLR 2023] Our <a href='https://arxiv.org/abs/2203.03605'>DINO</a> reach the SOTA on <a href='https://paperswithcode.com/sota/object-detection-on-coco'>MS-COCO leader board</a> with **63.3AP**! Code is avaliable <a href='https://github.com/IDEACVR/DINO'>here</a>!
 </p>
 
 ---
 
 ### Publications
+
+
+<font size=3>View full paper list in <a href='https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en'>my google scholar page</a>. </font>
+
 <p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
 <br>
@@ -112,8 +124,17 @@ Our team (Xiao Yang, Dingcheng Yang, Zihao Xiao, Yinpeng Dong, <b>Shilong Liu</b
 ---
 
 ### Services
-I serve as a reviewer for CVPR, ECCV, and ICIP.
-
+<p>
+Reviewer:
+<br>
+ICML 2023;
+<br>
+CVPR 2023, 2022, 2021;
+<br>
+ICCV 2023, 2021.
+<br>
+ECCV 2022.
+</p>
 
 
 
