@@ -47,6 +47,28 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 
 <br>
 
+<p>
+<font size=3><b>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.</b></font>
+<br>
+<font size=2><b>Shilong Liu</b>, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang/font>
+<br>
+<font size=2>arxiv 2023.</font>
+<br>
+<a href='https://arxiv.org/abs/2303.05499'>[paper]</a> <a href='https://github.com/IDEA-Research/GroundingDINO'>[code]</a>  
+</p>
+
+
+<p>
+<font size=3><b>Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation.</b></font>
+<br>
+<font size=2>Jie Yang, Ailing Zeng, <b>Shilong Liu</b>, Feng Li, Ruimao Zhang, Lei Zhang/font>
+<br>
+<font size=2>ICLR 2023.</font>
+<br>
+<a href='https://arxiv.org/abs/2302.01593'>[paper]</a> <a href='https://github.com/IDEA-Research/ED-Pose'>[code]</a>  
+</p>
+
+
 
 <p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
@@ -57,6 +79,8 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <br>
 <a href='https://arxiv.org/abs/2206.02777'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>  
 </p>
+
+
 
 <p>
 <font size=3><b>DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.</b></font>
@@ -115,7 +139,7 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <br>
 <font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Online (due to COVID-19), 2021.</font>
 <br>
-<a href='https://arxiv.org/abs/2105.12405'>[paper]</a>
+<a href='https://arxiv.org/abs/2105.12405'>[paper]</a> <a href='https://github.com/SlongLiu/UnsupKeypointsParts'>[code]</a>
 </p>
 
 
