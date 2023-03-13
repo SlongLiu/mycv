@@ -31,7 +31,7 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <br>
 [2022/11/19]: 1 paper is accepted to AAAI 2023!
 <br>
-[2022/6/7]: [CVPR 2023] We release a unified detection and segmentation model <a href='https://arxiv.org/pdf/2206.02777.pdf'>Mask DINO</a> that achieves the best results on all the three segmentation tasks (<b>54.7</b> AP on <a href='https://paperswithcode.com/sota/instance-segmentation-on-coco'>COCO instance leaderboard</a>, <b>59.5</b> PQ on <a href='https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev'>COCO panoptic leaderboard</a>, and <b>60.8</b> mIoU on <a href='https://paperswithcode.com/sota/semantic-segmentation-on-ade20k'>ADE20K semantic leaderboard</a>! Code will be available <a href='https://github.com/IDEACVR/MaskDINO'>here</a>. 
+[2022/6/7]: [CVPR 2023] We release a unified detection and segmentation model <a href='https://arxiv.org/pdf/2206.02777.pdf'>Mask DINO</a> that achieves the best results on all the three segmentation tasks <b>54.7</b> AP on <a href='https://paperswithcode.com/sota/instance-segmentation-on-coco'>COCO instance leaderboard</a>, <b>59.5</b> PQ on <a href='https://paperswithcode.com/sota/panoptic-segmentation-on-coco-test-dev'>COCO panoptic leaderboard</a>, and <b>60.8</b> mIoU on <a href='https://paperswithcode.com/sota/semantic-segmentation-on-ade20k'>ADE20K semantic leaderboard</a>! Code will be available <a href='https://github.com/IDEACVR/MaskDINO'>here</a>. 
 <br>
 [2022/3/9]: We build a new repo <a href='https://github.com/IDEACVR/awesome-detection-transformer'>awesome Detection Transformer</a> to present papers about transformer for detection and segmenttion. Welcome to your attention!
 <br>
@@ -44,13 +44,12 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 
 
 <font size=4>Refer to <a href='https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en'>my google scholar page</a> for a full paper list. </font>
-
 <br>
 
 <p>
 <font size=3><b>Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection.</b></font>
 <br>
-<font size=2><b>Shilong Liu</b>, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang/font>
+<font size=2><b>Shilong Liu</b>, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang</font>
 <br>
 <font size=2>arxiv 2023.</font>
 <br>
@@ -61,7 +60,7 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <p>
 <font size=3><b>Explicit Box Detection Unifies End-to-End Multi-Person Pose Estimation.</b></font>
 <br>
-<font size=2>Jie Yang, Ailing Zeng, <b>Shilong Liu</b>, Feng Li, Ruimao Zhang, Lei Zhang/font>
+<font size=2>Jie Yang, Ailing Zeng, <b>Shilong Liu</b>, Feng Li, Ruimao Zhang, Lei Zhang</font>
 <br>
 <font size=2>ICLR 2023.</font>
 <br>
