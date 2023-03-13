@@ -21,6 +21,10 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 
 ### News
 <p>
+[2022/3/13]: We release a strong open-set object detection model <font size=4><a href='https://arxiv.org/abs/2303.05499'>Grounding DINO</a></font> that achieves the best results on open-set object detection tasks. It achieves <b>52.5 zero-shot</b> AP on COCO detection, <b>without any COCO training data!</b> It achieves <b>63.0</b> AP on COCO after fine-tuning. Code and checkpoints will be available <a href='https://github.com/IDEA-Research/GroundingDINO'>here</a>.
+<br>
+[2022/9/22]: We release a toolbox <font size=4><a href=https://github.com/IDEA-Research/detrex>detrex</a></font> that provides state-of-the-art Transformer-based detection algorithms. It includes DINO <b>with better performance</b>. Welcome to use it!
+<br>
 [2023/2/28]: 4 papers are accepted to CVPR 2023!
 <br>
 [2023/1/21]: 2 papers are accepted to ICLR 2023!
@@ -39,14 +43,17 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 ### Publications
 
 
-<font size=3>View full paper list in <a href='https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en'>my google scholar page</a>. </font>
+<font size=4>Refer to <a href='https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en'>my google scholar page</a> for a full paper list. </font>
+
+<br>
+
 
 <p>
 <font size=3><b>Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation.</b></font>
 <br>
 <font size=2>Feng Li, Hao Zhang, Huaizhe xu, <b>Shilong Liu</b>, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum</font>
 <br>
-<font size=2>arxiv 2022.</font>
+<font size=2>CVPR 2023.</font>
 <br>
 <a href='https://arxiv.org/abs/2206.02777'>[paper]</a> <a href='https://github.com/IDEACVR/MaskDINO'>[code]</a>  
 </p>
@@ -56,7 +63,7 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <br>
 <font size=2>Hao Zhang*, Feng Li*, <b>Shilong Liu*</b>, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum</font>
 <br>
-<font size=2>arxiv 2022.</font>
+<font size=2>ICLR 2023.</font>
 <br>
 <a href='https://arxiv.org/abs/2203.03605'>[paper]</a> <a href='https://github.com/IDEACVR/DINO'>[code]</a>  
 </p>
