@@ -23,7 +23,7 @@ Google Scholar: https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en
 <p>
 [2022/3/13]: We release a strong open-set object detection model <font size=4><a href='https://arxiv.org/abs/2303.05499'>Grounding DINO</a></font> that achieves the best results on open-set object detection tasks. It achieves <b>52.5 zero-shot</b> AP on COCO detection, <b>without any COCO training data!</b> It achieves <b>63.0</b> AP on COCO after fine-tuning. Code and checkpoints will be available <a href='https://github.com/IDEA-Research/GroundingDINO'>here</a>.
 <br>
-[2022/9/22]: We release a toolbox <font size=4><a href=https://github.com/IDEA-Research/detrex>detrex</a></font> that provides state-of-the-art Transformer-based detection algorithms. It includes DINO <b>with better performance</b>. Welcome to use it!
+[2022/9/22]: We release a toolbox <font size=4><a href='https://github.com/IDEA-Research/detrex'>detrex</a></font> that provides state-of-the-art Transformer-based detection algorithms. It includes DINO <b>with better performance</b>. Welcome to use it!
 <br>
 [2023/2/28]: 4 papers are accepted to CVPR 2023!
 <br>
